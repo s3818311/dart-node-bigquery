@@ -1,0 +1,14 @@
+{
+  "name": "dart-node-bigquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/bigquery": "^6.0.2"
+  }
+}
